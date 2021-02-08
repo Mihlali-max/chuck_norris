@@ -1,1 +1,1 @@
-web : gunicorn chuck_norris:app
+web: gunicorn chuck_norris:app
